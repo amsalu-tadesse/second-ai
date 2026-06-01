@@ -1,0 +1,6 @@
+{
+  "name": "Enterprise AdminLTE Control Panel",
+  "description": "Full-Featured Enterprise Portal with AdminLTE Styling, Roles & Permissions, Activity Auditing, CRUD Generator, and Department/Project management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
